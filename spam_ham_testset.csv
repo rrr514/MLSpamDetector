@@ -1,0 +1,230 @@
+﻿text,label
+"The LEAN 1-2-3 Newsletter
+1 Principle, 2 Strategies, and 3 Tactics.
+
+by ASH MAURYA
+
+​
+
+Prefer Fermi estimates when uncertainty is high.
+read on LEANFOUNDRY.COM | AUG 10, 2024
+
+Welcome to another issue of LEAN 1-2-3 where every week I share 1 universal principle, 2 underlying strategies, and 3 actionable tactics for building a repeatable and scalable business model...
+
+1 Universal Principle
+
+“Prefer Fermi estimates when uncertainty is high.”
+​(Share this on Twitter)
+
+How do you prioritize work that delivers the biggest impact for the least amount of work?
+
+One popular technique is the RICE framework, where you score and rank each idea’s Reach, Impact, Confidence, and Effort to prioritize what to work on first.
+
+The real challenge arises when assembling the rubric.
+
+How do you objectively and fairly score reach, impact, confidence, or effort?
+What are the minimum acceptance criteria?
+How do you prevent worse ideas from creeping over better ones?
+
+The answer lies in NOT aiming for 3-digit precision but in order of magnitude estimation — aka Fermi estimation.
+
+Enrico Fermi was an Italian physicist famous for making rapid order-of-magnitude estimations with seemingly little available data.
+
+Fermi estimations work by making justified guesses about a problem’s input assumptions, which are accurate within an order of magnitude (the nearest power of ten). If you’ve ever tried to estimate how many pieces of candy there are in a jar, you’ve been exposed to a Fermi problem.
+
+
+This is often the best we can do with little data, but it’s surprising how useful this kind of ballpark estimate can be in making a decision.
+
+​
+
+2 Underlying Strategies at Play
+
+I. Aiming for precision is a false proxy when uncertainty is high.
+
+When uncertainty is high, which is always the case in the early stages of a new product or feature, aiming for precision hides the truth in layers of compounding innocent lies.
+
+For instance, to estimate effort precisely, you might try and
+
+Scope out the project into tasks and sub-tasks
+Allocate hours to each task
+Then, compute a total
+First, doing this across every project requires additional planning overhead. More importantly, every project has unknowable unknowns which are only discovered over time. Both of these challenges are exacerbated in resource-constrained startups.
+
+Furthermore, aiming for precision is a false proxy because it’s easy to fudge these numbers by downplaying effort. When team members do this to make their favorite idea win, it lowers confidence and sparks needless debating.
+
+​
+
+II. Fermi estimates eliminate subjectivity.
+
+The alternative is to forgo precision for confidence in the estimates. Estimation is indisputably more straightforward by only allowing orders of magnitude choices, with little room for argument.
+
+When estimating effort for a project, the only options I can pick from are:
+
+2 hours (probably not worth planning as a team)
+2 days
+2 weeks
+2 months
+It’s hard to mistake a 2-week project for a 2-month project.
+
+The key to applying Fermi estimates to the scoping problem is picking big enough intervals between choices.
+Powers of 10 work in most cases, but when time, conversion rates, or confidence are involved, it helps to use smaller non-linear jumps like 3x or 5x between choices.
+
+In the next section, I’ll share the graduations I use.
+
+​
+
+3 Actionable Tactics
+
+I. Scoring Reach and Impact
+
+10x works perfectly well here.
+
+When estimating reach, I ask how many users or customers would be potentially impacted by the project:
+
+1
+10
+100
+1,000
+10,000
+100,000
+For impact, potential revenue (ARR) is what I use most often:
+
+$100
+$1k
+$10k
+$100k
+It’s important to remember that these are absolute numbers but ranges rounded up to the nearest order of magnitude. So, a potential revenue bump of $5k-30k would still be closer to $10k than $1k or $100k.
+
+​
+
+II. Scoring Confidence and Effort.
+
+I already covered effort above. For confidence, I’ll present two options.
+
+a. Use a graduated scale with the following options:
+
+10% (low confidence it will work)
+50% (could go either way)
+80% (high confidence it will work)
+I eliminate 0% of 100% because the first is a bad idea, and the second is impossible.
+
+b. Compute confidence as evidence strength
+
+If you subscribe to validating demand before you build a product or feature using a demo-sell-build approach, you can make confidence a lot more objective by estimating the number of people that have positively bought into the project already:
+
+0
+1
+10
+100
+1,000
+​
+
+III. Selecting high ROI ideas.
+
+If you’ve gotten this far, compute the potential ROI of each project as:
+
+
+This is not only a faster way of prioritizing the highest ROI projects, but when coupled with an evidence-based confidence score, it also increases your odds of realizing this ROI.
+
+That's all for today. See you next week.
+
+Ash
+Author of ​Running Lean​ and creator of ​Lean Canvas​
+
+.
+
+.
+
+P.S.
+
+I revived my old YouTube channel. The first video dropped yesterday. I'd love to hear your thoughts.
+
+​
+
+​
+
+​
+Want to go deeper down the rabbit hole?
+I'm kicking off my next cohort-based workshop (BOOTSTART) in September. It teaches you how to go from idea to early traction (paying customers) in less than 90 days—without a product.
+​
+If you want to learn more, click here to join the list.
+
+​
+
+Share with friends, get cool stuff!
+Have friends who'd love my newsletter too? Give them your unique referral link (below) and get an awesome reward when they subscribe.
+https://join.leanfoundry.com/106a0a4f/
+Facebook
+Twitter
+Whatsapp
+Telegram
+Linkedin
+Email
+PS: You have referred 0 people so far
+See rewards and how many referrals you have
+You're receiving this email because you subscribed to my weekly Lean 1-2-3 newsletter. Every Saturday, I share 1 universal principle, 2 underlying strategies at play, and 3 actionable tactics for building a repeatable and scalable business model.
+
+Update your subscription preferences: Unsubscribe from the Lean 1-2-3 newsletter, unsubscribe from all emails (including future product announcements), or manage your subscriber profile.",ham
+"
+LinkedIn	
+Roy Yue
+You have 10+ new invitations
+Mail open icon
+View invitations
+ Roma Mudnal’s profile picture	
+Congratulate Roma Mudnal for starting a new position as STEP Intern at Google
+Say congrats
+ Andrew Wang’s picture	
+Andrew Wang and 4 other people viewed your profile
+See all views
+ Search icon	
+You appeared in 20 searches this week
+You were found by people from these companies
+MATTA logo iCode School Franchise logo Caltech logo Y Combinator logo Holiday Inn Express logo
++4
+See all searches
+Get the new LinkedIn desktop app
+Get it from Microsoft
+Also available on mobile
+Download on the App Store  Get it on Google Play
+This email was intended for Roy Yue (CS Honors + Business Honors @ The University of Texas at Austin)
+Learn why we included this.
+You are receiving LinkedIn notification emails.
+Unsubscribe   ·   Help
+LinkedIn
+© 2024 LinkedIn Corporation, 1‌000 West Maude Avenue, Sunnyvale, CA 94085. LinkedIn and the LinkedIn logo are registered trademarks of LinkedIn.",ham
+"
+
+Dear Roy Yue,
+ 
+We are pleased to inform you of your invitation to join the Honor Society®. Our records indicate that you have not yet accepted this membership and its associated benefits.
+
+The next deadline to apply for scholarships is August 8, 2024. This gives you ample time to consider the benefits and opportunities that come with this membership. We encourage you to take full advantage of what the Honor Society® has to offer and join our community.
+
+We encourage you to activate your membership promptly to begin your journey with us and enjoy the many benefits of being part of our community.
+Activate Membership for Roy Yue
+The Honor Society® acknowledges and celebrates your achievements while providing a strong framework for your future. As a mission-driven and inclusive organization, we proudly uphold our principle: The Honor Society for All!™  We encourage you to activate your membership promptly to commence your journey with us.
+
+Our scholarships, reflecting our unwavering commitment to inclusivity and equality, are available to everyone. We staunchly support our motto: The Honor Society for All!™
+Activate Membership for Roy Yue
+ 
+
+ 
+We're here to help: 18663136311
+1025 Connecticut Avenue, NW • Suite 1000 • Washington, DC 20036 id: 
+
+Honor Society® - Strength and Honor
+This email is exclusively for: roy.yue05@gmail.com
+
+In order to unsubscribe from this mailing list, please click here ",spam
+"
+Alternate text
+CLICK HERE FOR PRICING & AVAILABILITY!!
+Manage your preferences | Opt Out using TrueRemove™
+Got this as a forward? Sign up to receive our future emails.
+View this email online.
+1819 W Pinhook Rd Suite 115 None | Lafayette, LA 70508 US
+This email was sent to roy.yue05@gmail.com.
+To continue receiving our emails, add us to your address book.",spam
+suck on deez nuts,spam
+ARE YOU STILL LOOKING FOR OFF-CAMPUS HOUSING!? *Click here for more…,spam
